@@ -1,4 +1,4 @@
-# 🌟Siri Varshini's Fairy-Themed Portfolio🌟    - [Demo](https://3d-portfolio-sirivarshini-954s-projects.vercel.app/)
+# 🌟Siri Varshini's Fairy-Themed Portfolio🌟    - [Demo](https://my-3d-portfolio-sirivarshini-954s-projects.vercel.app/)
 
 Welcome to my enchanting fairy-themed portfolio website!✨ This open-source template is designed for developers who want a visually captivating, responsive, and animated site without extensive custom development. Easily personalize it by adding your own data to showcase your projects, contact details, about section, and social media links, all wrapped in a magical fairy aesthetic.
 
